@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta BIC azul",
+            "price": 2.89
+        },
+        {
+            "id": 2,
+            "name": "Caderno 10 matérias",
+            "price": 14.99
+        },
+        {
+            "id": 3,
+            "name": "Borracha apaga tudo",
+            "price": 1.19
+        },
+        {
+            "id": 4,
+            "name": "Marca texto amarela",
+            "price": 5.19
+        },
+        {
+            "id": 5,
+            "name": "Agenda 2021",
+            "price": 20.79
+        }
+    ]
+}
