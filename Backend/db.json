@@ -24,21 +24,7 @@
       "id": 5,
       "name": "Agenda 2021",
       "price": 20.79
-    },
-    {
-      "name": "Produto de teste",
-      "price": 125.99,
-      "id": 6
-    },
-    {
-      "name": "",
-      "price": null,
-      "id": 7
-    },
-    {
-      "name": "Teste de produto",
-      "price": "25",
-      "id": 8
     }
+    
   ]
 }
